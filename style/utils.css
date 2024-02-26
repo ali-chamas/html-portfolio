@@ -1,0 +1,27 @@
+.primary-color{
+    color: rgb(150, 119, 178);
+}
+.large-font{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.inline{
+    display: inline;
+    margin-right: 5px;
+}
+.link-styles{
+    text-decoration: none;
+    background: rgb(150, 119, 178);
+    border-radius: 5px;
+    padding: 5px;
+}
+.link-styles:hover{
+    opacity: 0.9;
+}
+.center{
+    padding: 30px 30%;
+    height: 70vh;
+}
+.p{
+    padding: 10px 5px;
+}

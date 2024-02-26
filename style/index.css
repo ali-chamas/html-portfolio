@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(30, 30, 57);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    
+   border-bottom: rgb(150, 119, 178) 2px solid;
+   padding: 12px;
+   height: 15vh;
+}
+
+.header-info{
+    padding-right: 35%;
+}
+
+.logo{
+    width: 40px;
+}
+
+.hero-image{
+    width:300px;
+    border-radius: 20px;
+}
+
+
+table, th, td{
+    border: white 1px solid;
+}
+
+footer{
+    height: 15vh;
+    position: relative;
+    
+}
+.footer-content{
+    position: absolute;
+    top:10px;
+    left: 45%;
+    border-bottom: rgb(150, 119, 178) 2px solid;
+   
+   
+}
