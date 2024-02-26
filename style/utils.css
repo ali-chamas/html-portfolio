@@ -5,6 +5,10 @@
     font-size: xx-large;
     font-weight: bold;
 }
+.medium-font{
+    font-size: larger;
+    font-weight: bold;
+}
 .inline{
     display: inline;
     margin-right: 5px;
@@ -20,8 +24,34 @@
 }
 .center{
     padding: 30px 30%;
-    height: 70vh;
+    height: 75vh;
 }
 .p{
     padding: 10px 5px;
+}
+
+section{
+    position: relative;
+    margin:0 90px;
+}
+
+.left{
+    width: 450px;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 40px;   
+}
+.right{
+    width: 400px;
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 40px;
+}
+
+.m{
+margin: 10px 5px;
 }

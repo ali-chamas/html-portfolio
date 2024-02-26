@@ -23,8 +23,12 @@
 }
 
 .hero-image{
-    width:300px;
-    border-radius: 20px;
+    width:350px;
+    border-radius: 50%;
+}
+
+.hero-text{
+    margin:0 55px
 }
 
 
@@ -33,7 +37,7 @@ table, th, td{
 }
 
 footer{
-    height: 15vh;
+    height: 10vh;
     position: relative;
     
 }
@@ -44,4 +48,8 @@ footer{
     border-bottom: rgb(150, 119, 178) 2px solid;
    
    
+}
+.hero-p{
+    margin: 100px 0px;
+    
 }
