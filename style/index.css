@@ -9,7 +9,8 @@
 
 .header{
     
-   border-bottom: rgb(150, 119, 178) 2px solid;
+   border-bottom: rgb(150, 119, 178) 1px solid;
+   
    padding: 12px;
    height: 15vh;
 }
@@ -20,6 +21,7 @@
 
 .logo{
     width: 40px;
+    padding-top: 10px;
 }
 
 .hero-image{
